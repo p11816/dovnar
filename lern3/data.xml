@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<cars><name>Audi</name>
+  <brand>
+    <name>Acura</name>
+    <model><name>CL</name></model>
+    <model><name>CSX</name></model>
+    <model><name>Integra</name></model>
+    <model><name>MDX</name></model>
+    <model><name>RDX</name></model>
+    <model><name>RL</name></model>
+    <model><name>RSX</name></model>
+    <model><name>SLX</name></model>
+    <model><name>TL</name></model>
+  </brand>
+  <brand>
+    <name>Alfa Romeo</name>
+    <model><name>145</name></model>
+    <model><name>146</name></model>
+    <model><name>147</name></model>
+    <model><name>155</name></model>
+    <model><name>156</name></model>
+    <model><name>159</name></model>
+    <model><name>164</name></model>
+    <model><name>166</name></model>
+    <model><name>33</name></model>
+    <model><name>Giulietta</name></model>
+    <model><name>GT</name></model>
+    <model><name>GTV</name></model>
+  </brand>
+  <brand>
+    <name>Audi</name>
+    <model><name>100</name></model>
+    <model><name>200</name></model>
+    <model><name>80</name></model>
+    <model><name>90</name></model>
+    <model><name>A1</name></model>
+    <model><name>A2 </name></model>
+    <model><name>A3</name></model>
+    <model><name>A4 (B5) </name></model>
+    <model><name>A4 (B6)</name></model>
+    <model><name>A4 (B7)</name></model>
+    <model><name>A4 (B8)</name></model>
+    <model><name>A4 (B9)</name></model>
+    <model><name>A5</name></model>
+    <model><name>A6 (C4)</name></model>
+    <model><name>A6 (C5)</name></model>
+    <model><name>A6 (C6)</name></model>
+    <model><name>A6 (C7)</name></model>
+    <model><name>A7</name></model>
+    <model><name>A8 (D2)</name></model>
+    <model><name>A8 (D3)</name></model>
+    <model><name>A8 (D4)</name></model>
+    <model><name>Allroad</name></model>
+    <model><name>Cabriolet</name></model>
+    <model><name>Coupe</name></model>
+    <model><name>Q3</name></model>
+    <model><name>Q5</name></model>
+    <model><name>Q7</name></model>
+    <model><name>R8</name></model>
+    <model><name>A8 (D4)</name></model>
+    <model><name>RS4</name></model>
+    <model><name>S3</name></model>
+    <model><name>S4</name></model>
+  </brand>
+<!--  <brand>BMW </brand>
+  <brand>Chery </brand>
+  <brand>Chevrolet </brand>
+  <brand>Chrysler </brand>
+  <brand>Citroen </brand>
+  <brand>Daewoo </brand>
+  <brand>Dodge </brand>
+  <brand>Fiat </brand>
+  <brand>Ford </brand>
+  <brand>Honda </brand>
+  <brand>Hyundai </brand>
+  <brand>Infiniti </brand>
+  <brand>Jaguar </brand>
+  <brand>Jeep </brand>
+  <brand>Kia </brand>
+  <brand>Lada </brand>
+  <brand>Lancia</brand>
+  <brand>Land Rover </brand>
+  <brand>Lexus</brand>
+  <brand>Mazda </brand>
+  <brand>Mercedes-Benz </brand>
+  <brand>Mitsubishi </brand>
+  <brand>Nissan </brand>
+  <brand>Opel </brand>
+  <brand>Peugeot </brand>
+  <brand>Porsche </brand>
+  <brand>Renault </brand>
+  <brand>Rover </brand>
+  <brand>Saab </brand>
+  <brand>Seat </brand>
+  <brand>Skoda </brand>
+  <brand>Subaru </brand>
+  <brand>Suzuki </brand>
+  <brand>Toyota </brand>
+  <brand>Volkswagen </brand>
+  <brand>Volvo </brand>-->
+</cars>
